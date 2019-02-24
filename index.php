@@ -1,1 +1,2 @@
-echo "Hi";
+echo "Hi ";
+echo "Everyone ";
